@@ -2,6 +2,6 @@ package be.ma;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Goodbye!!!!!!!!!!1!!!\n");
+        System.out.println("Goodbye!!!!!!!!!!!\n");
     }
 }
